@@ -80,3 +80,4 @@ nextButton.addEventListener("click", () => {
         cardContainer.style.transform = `translateX(${currentPosition}px)`;
     }
 });
+
